@@ -1,0 +1,1 @@
+fprint("Hello world.")
